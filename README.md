@@ -22,10 +22,6 @@
 
 ---
 
-### 🏆 Output 
-<img src="C:\Users\DELL\Downloads\Screenshot 2025-05-26 184351.png" width="400" height="400">
-png
----
 
 ### 🤝 Let's Connect
 - Explore the repository, share your thoughts, or reach out to discuss data analysis, internship experiences, or related topics. Always open to learning and collaboration!
