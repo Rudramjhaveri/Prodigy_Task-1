@@ -1,0 +1,33 @@
+# Prodigy InfoTech Internship: Data Analysis Insights
+-  Welcome to the repository for my internship at Prodigy InfoTech! This space documents Task 1 of my journey, which centers around data preprocessing, analysis, and extracting meaningful insights.
+  <img width="742" alt="question" src="https://github.com/user-attachments/assets/b656b7a9-dbe1-4986-a0bd-9ac0e206a71b" style ='center'/>
+
+---
+
+### 📊 Task Summary
+- Developed a bar chart or histogram to represent the distribution of a categorical (e.g., gender) or continuous (e.g., age) variable within a dataset. This helped in visualizing population patterns effectively.
+
+---
+
+### 💡 Skills & Learning
+- Through this task, I enhanced my skills in creating clear, insightful visualizations using Python tools like Matplotlib and Seaborn. It also deepened my understanding of how graphical representation aids in data interpretation.
+
+---
+
+### ⚙️ Tools and Libraries used
+- Jupyter notebook
+- Pandas
+- Numpy
+- Matplotlip & Seaborn for visualization
+
+---
+
+### 🏆 Output 
+<img src="C:\Users\DELL\Downloads\Screenshot 2025-05-26 184351.png" width="400" height="400">
+png
+---
+
+### 🤝 Let's Connect
+- Explore the repository, share your thoughts, or reach out to discuss data analysis, internship experiences, or related topics. Always open to learning and collaboration!
+
+
